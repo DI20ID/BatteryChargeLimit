@@ -195,5 +195,12 @@
     "chargeOn": "0",
     "chargeOff": "1",
     "experimental": true
+  },
+  {
+    "file": "/sys/class/oplus_chg/usb/chg_enable",
+    "label": "chg_enable",
+    "details": "Oneplus 9 Pro",
+    "chargeOn": "1",
+    "chargeOff": "0",
   }
 ]
